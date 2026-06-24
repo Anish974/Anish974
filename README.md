@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Anish Patankar, a final-year CSE student passionate about building AI-powered drone systems and full-stack web applications. Currently working on UTMS (Unmanned Traffic Management System) at BERAM Pvt. Ltd., where I develop real-time telemetry systems using React, Node.js, and Python. I specialize in machine learning, drone technologies, and production-ready web solutions. Open to collaborating on innovative projects and always excited to connect with fellow developers and creators.
+Hi, I'm Anish Patankar, a CSE graduate and passionate about building AI-powered drone systems and full-stack web applications. Currently working on UTMS (Unmanned Traffic Management System) at BERAM Pvt. Ltd., where I develop real-time telemetry systems using React, Node.js, and Python. I specialize in machine learning, drone technologies, and production-ready web solutions. Open to collaborating on innovative projects and always excited to connect with fellow developers and creators.
 
 ## 🌍 Portfolio & Links:
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=FF7139)](https://anishpatankar.vercel.app) [![Resume](https://img.shields.io/badge/Resume-%23000000.svg?style=for-the-badge&logo=adobe&logoColor=FF0000)](https://anishpatankar.vercel.app/resume)
