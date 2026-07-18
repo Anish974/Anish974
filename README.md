@@ -2,7 +2,8 @@
 Hi, I'm Anish Patankar, a CSE graduate and passionate about building AI-powered drone systems and full-stack web applications. Currently working on UTMS (Unmanned Traffic Management System) at BERAM Pvt. Ltd., where I develop real-time telemetry systems using React, Node.js, and Python. I specialize in machine learning, drone technologies, and production-ready web solutions. Open to collaborating on innovative projects and always excited to connect with fellow developers and creators.
 
 ## 🌍 Portfolio & Links:
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=FF7139)](https://anishpatankar.vercel.app) [![Resume](https://img.shields.io/badge/Resume-%23000000.svg?style=for-the-badge&logo=adobe&logoColor=FF0000)](https://anishpatankar.vercel.app/resume)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=FF7139)](https://anishpatankar.vercel.app) [![Resume](https://img.shields.io/badge/Resume-%23000000.svg?style=for-the-badge&logo=adobe&logoColor=FF0000)]([https://anishpatankar.vercel.app/resume](https://anishpatankar.vercel.app/assets/Anish%20Resume%20CSE(AIML)%20Graduate.pdf
+))
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_anish_1137_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anish-patankar-47421b25a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anishpatankar974@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Anish974)
