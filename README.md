@@ -443,17 +443,6 @@ UAV traffic and mission management in a single system — mission planning recor
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Anish974&show_icons=true&hide_border=true&theme=transparent&icon_color=6366f1&title_color=6366f1" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anish974&layout=compact&hide_border=true&theme=transparent&title_color=6366f1" alt="Top languages"/>
-
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
