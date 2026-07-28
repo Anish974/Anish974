@@ -244,8 +244,6 @@ Fine-tuned YOLOv8 on a custom dataset. Drag-and-drop upload, live camera capture
 
 <br/>
 
-<img src="https://anishpatankar.vercel.app/assets/UTMS_DASHBOARD.png" width="88%" alt="UTMS dashboard"/>
-
 ### 🛰️ UTMS — Unmanned Traffic Management System
 
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
