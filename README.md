@@ -47,6 +47,100 @@ const anish = {
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://docflow.ayuslabs.com/"><img src="https://anishpatankar.vercel.app/assets/DocFlow.png" width="100%" alt="DocFlow"/></a>
+
+<h3 align="center">📄 DocFlow</h3>
+<p align="center"><em>Browser-Native PDF Editor</em></p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+</p>
+
+Edit, sign, redact and reorder PDFs entirely client-side via WASM. **Zero upload** — files never leave the browser, so privacy is architectural, not a promise.
+
+<p align="center">
+<a href="https://docflow.ayuslabs.com/"><img src="https://img.shields.io/badge/Live_Demo-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/Anish974/Orange-Counter"><img src="https://anishpatankar.vercel.app/assets/orangecount.png" width="100%" alt="Orange Counter"/></a>
+
+<h3 align="center">🍊 Orange Counter</h3>
+<p align="center"><em>Real-Time Object Detection</em></p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+</p>
+
+Fine-tuned YOLOv8 on a custom dataset. Drag-and-drop upload, live camera capture, dark mode, and a Flask-backed detection API.
+
+<p align="center">
+<a href="https://github.com/Anish974/Orange-Counter"><img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+</td>
+</tr>
+
+<tr><td colspan="2"><br/></td></tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://drosky.ayuslabs.com"><img src="https://anishpatankar.vercel.app/assets/DroSky.png" width="100%" alt="DroSky"/></a>
+
+<h3 align="center">🕹️ DroSky</h3>
+<p align="center"><em>3D Arcade Drone Game</em></p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white"/>
+<img src="https://img.shields.io/badge/Multiplayer-4B5563?style=flat-square"/>
+<img src="https://img.shields.io/badge/Physics-4B5563?style=flat-square"/>
+</p>
+
+Ring-run drone racer — **multiplayer racing, 3 maps, 30 levels**, moving hazards, timed landings, custom synth audio engine and gamepad support.
+
+<p align="center">
+<a href="https://drosky.ayuslabs.com"><img src="https://img.shields.io/badge/Live_Demo-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://praxis.ayuslabs.com"><img src="https://anishpatankar.vercel.app/assets/PRAXIS.png" width="100%" alt="Praxis"/></a>
+
+<h3 align="center">🧑‍🏫 Praxis</h3>
+<p align="center"><em>Interactive Learning Platform</em></p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Monaco_Editor-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+</p>
+
+Learn web dev by doing. Write real HTML/CSS/JS in an embedded editor, get instant live preview, and AI-powered hints when you're stuck.
+
+<p align="center">
+<a href="https://praxis.ayuslabs.com"><img src="https://img.shields.io/badge/Live_Demo-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+</p>
+
+</td>
+</tr>
+
+<tr><td colspan="2"><br/></td></tr>
+
+<tr>
+<td width="50%" valign="top">
+
 <a href="https://limitup.site"><img src="https://anishpatankar.vercel.app/assets/LIMITUP.png" width="100%" alt="LimitUP"/></a>
 
 <h3 align="center">🎮 LimitUP</h3>
@@ -69,22 +163,22 @@ RPG-style life tracker — XP, levels, quests, guilds, leaderboards, journals an
 </td>
 <td width="50%" valign="top">
 
-<a href="https://docflow.ayuslabs.com/"><img src="https://anishpatankar.vercel.app/assets/DocFlow.png" width="100%" alt="DocFlow"/></a>
+<a href="https://ayuslabs.com"><img src="https://anishpatankar.vercel.app/assets/ayuslabs.png" width="100%" alt="AYUS Labs"/></a>
 
-<h3 align="center">📄 DocFlow</h3>
-<p align="center"><em>Browser-Native PDF Editor</em></p>
+<h3 align="center">🧪 AYUS Labs</h3>
+<p align="center"><em>Digital Product Studio</em></p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
 </p>
 
-Edit, sign, redact and reorder PDFs entirely client-side via WASM. **Zero upload** — files never leave the browser, so privacy is architectural, not a promise.
+Official hub for AYUS Labs — the studio behind DocFlow, Praxis and DroSky. Tools across AI, productivity and the creator economy.
 
 <p align="center">
-<a href="https://docflow.ayuslabs.com/"><img src="https://img.shields.io/badge/Live_Demo-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://ayuslabs.com"><img src="https://img.shields.io/badge/Live_Demo-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 </p>
 
 </td>
@@ -116,53 +210,6 @@ High-performance FPV sim with real-time flight physics, multiple maps and gamepa
 </td>
 <td width="50%" valign="top">
 
-<a href="https://drosky.ayuslabs.com"><img src="https://anishpatankar.vercel.app/assets/DroSky.png" width="100%" alt="DroSky"/></a>
-
-<h3 align="center">🕹️ DroSky</h3>
-<p align="center"><em>3D Arcade Drone Game</em></p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white"/>
-<img src="https://img.shields.io/badge/Multiplayer-4B5563?style=flat-square"/>
-<img src="https://img.shields.io/badge/Physics-4B5563?style=flat-square"/>
-</p>
-
-Ring-run drone racer — **multiplayer racing, 3 maps, 30 levels**, moving hazards, timed landings, custom synth audio engine and gamepad support.
-
-<p align="center">
-<a href="https://drosky.ayuslabs.com"><img src="https://img.shields.io/badge/Live_Demo-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-</p>
-
-</td>
-</tr>
-
-<tr><td colspan="2"><br/></td></tr>
-
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://praxis.ayuslabs.com"><img src="https://anishpatankar.vercel.app/assets/PRAXIS.png" width="100%" alt="Praxis"/></a>
-
-<h3 align="center">🧑‍🏫 Praxis</h3>
-<p align="center"><em>Interactive Learning Platform</em></p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Monaco_Editor-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-</p>
-
-Learn web dev by doing. Write real HTML/CSS/JS in an embedded editor, get instant live preview, and AI-powered hints when you're stuck.
-
-<p align="center">
-<a href="https://praxis.ayuslabs.com"><img src="https://img.shields.io/badge/Live_Demo-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-</p>
-
-</td>
-<td width="50%" valign="top">
-
 <a href="https://sticktoon.shop/"><img src="https://anishpatankar.vercel.app/assets/StickToonFront.png" width="100%" alt="StickToon"/></a>
 
 <h3 align="center">🛒 StickToon</h3>
@@ -179,53 +226,6 @@ Complete storefront for a sticker brand — catalog, cart and checkout flow. Bui
 
 <p align="center">
 <a href="https://sticktoon.shop/"><img src="https://img.shields.io/badge/Live_Demo-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-</p>
-
-</td>
-</tr>
-
-<tr><td colspan="2"><br/></td></tr>
-
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://ayuslabs.com"><img src="https://anishpatankar.vercel.app/assets/ayuslabs.png" width="100%" alt="AYUS Labs"/></a>
-
-<h3 align="center">🧪 AYUS Labs</h3>
-<p align="center"><em>Digital Product Studio</em></p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-</p>
-
-Official hub for AYUS Labs — the studio behind DocFlow, Praxis and DroSky. Tools across AI, productivity and the creator economy.
-
-<p align="center">
-<a href="https://ayuslabs.com"><img src="https://img.shields.io/badge/Live_Demo-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/Anish974/Orange-Counter"><img src="https://anishpatankar.vercel.app/assets/orangecount.png" width="100%" alt="Orange Counter"/></a>
-
-<h3 align="center">🍊 Orange Counter</h3>
-<p align="center"><em>Real-Time Object Detection</em></p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-</p>
-
-Fine-tuned YOLOv8 on a custom dataset. Drag-and-drop upload, live camera capture, dark mode, and a Flask-backed detection API.
-
-<p align="center">
-<a href="https://github.com/Anish974/Orange-Counter"><img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 </td>
