@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://anishpatankar.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=44&duration=2600&pause=900&color=6366F1&center=true&vCenter=true&width=700&height=80&lines=%3E_+Anish+Patankar;%3C+Full-Stack+Developer+%2F%3E;%7B+AI+%2F+ML+%C2%B7+Drone+Tech+%7D" alt="Anish Patankar" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=44&duration=2600&pause=900&color=6366F1&center=true&vCenter=true&width=700&height=80&lines=%3E_+Anish+Patankar" alt="Anish Patankar" />
 </a>
 
 **Co-Founder @ BERAM · Full-Stack Developer · AI/ML**
