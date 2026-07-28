@@ -16,10 +16,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anish974)
 [![AYUS Labs](https://img.shields.io/badge/AYUS_Labs-0F172A?style=for-the-badge&logo=rocket&logoColor=white)](https://ayuslabs.com)
 
-<br/>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=Anish974&style=for-the-badge&color=6366f1&label=Profile+Views)](https://github.com/Anish974)
-
 </div>
 
 ---
