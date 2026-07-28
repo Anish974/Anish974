@@ -1,6 +1,8 @@
 <div align="center">
 
-# Anish Patankar
+<a href="https://anishpatankar.vercel.app/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=44&duration=2600&pause=900&color=6366F1&center=true&vCenter=true&width=700&height=80&lines=%3E_+Anish+Patankar;%3C+Full-Stack+Developer+%2F%3E;%7B+AI+%2F+ML+%C2%B7+Drone+Tech+%7D" alt="Anish Patankar" />
+</a>
 
 **Co-Founder @ BERAM · Full-Stack Developer · AI/ML**
 
@@ -33,115 +35,198 @@ const anish = {
 
 ---
 
+<div align="center">
+
 ## 🚀 Live Products
 
-> Every link below is deployed and reachable right now.
+**Every link below is deployed and reachable right now.**
+
+</div>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🎮 LimitUP
-> Gamified Self-Improvement Platform
+<a href="https://limitup.site"><img src="https://anishpatankar.vercel.app/assets/LIMITUP.png" width="100%" alt="LimitUP"/></a>
 
-`React` `Node.js` `Express` `Prisma` `Supabase`
+<h3 align="center">🎮 LimitUP</h3>
+<p align="center"><em>Gamified Self-Improvement Platform</em></p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/>
+</p>
 
 RPG-style life tracker — XP, levels, quests, guilds, leaderboards, journals and an AI assistant. Full auth, persistent progression, real-time leaderboards.
 
-**[🔗 limitup.site](https://limitup.site)**
+<p align="center">
+<a href="https://limitup.site"><img src="https://img.shields.io/badge/Live_Demo-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+</p>
 
 </td>
 <td width="50%" valign="top">
 
-### 📄 DocFlow
-> Browser-Native PDF Editor
+<a href="https://docflow.ayuslabs.com/"><img src="https://anishpatankar.vercel.app/assets/DocFlow.png" width="100%" alt="DocFlow"/></a>
 
-`React` `TypeScript` `WebAssembly` `Tailwind`
+<h3 align="center">📄 DocFlow</h3>
+<p align="center"><em>Browser-Native PDF Editor</em></p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+</p>
 
 Edit, sign, redact and reorder PDFs entirely client-side via WASM. **Zero upload** — files never leave the browser, so privacy is architectural, not a promise.
 
-**[🔗 docflow.ayuslabs.com](https://docflow.ayuslabs.com/)**
+<p align="center">
+<a href="https://docflow.ayuslabs.com/"><img src="https://img.shields.io/badge/Live_Demo-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+</p>
 
 </td>
 </tr>
+
 <tr><td colspan="2"><br/></td></tr>
+
 <tr>
 <td width="50%" valign="top">
 
-### 🛸 BERAM Drone Simulator
-> WebGL FPV Flight Simulator
+<a href="https://simulator.beramdrones.com"><img src="https://anishpatankar.vercel.app/assets/dronesimulator.png" width="100%" alt="BERAM Drone Simulator"/></a>
 
-`Three.js` `WebGL` `Physics` `React`
+<h3 align="center">🛸 BERAM Drone Simulator</h3>
+<p align="center"><em>WebGL FPV Flight Simulator</em></p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white"/>
+<img src="https://img.shields.io/badge/Physics-4B5563?style=flat-square"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+</p>
 
 High-performance FPV sim with real-time flight physics, multiple maps and gamepad support. Built as a client product for BERAM Drones.
 
-**[🔗 simulator.beramdrones.com](https://simulator.beramdrones.com)**
+<p align="center">
+<a href="https://simulator.beramdrones.com"><img src="https://img.shields.io/badge/Live_Demo-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+</p>
 
 </td>
 <td width="50%" valign="top">
 
-### 🕹️ DroSky
-> 3D Arcade Drone Game
+<a href="https://drosky.ayuslabs.com"><img src="https://anishpatankar.vercel.app/assets/DroSky.png" width="100%" alt="DroSky"/></a>
 
-`Three.js` `WebGL` `Multiplayer` `Physics`
+<h3 align="center">🕹️ DroSky</h3>
+<p align="center"><em>3D Arcade Drone Game</em></p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white"/>
+<img src="https://img.shields.io/badge/Multiplayer-4B5563?style=flat-square"/>
+<img src="https://img.shields.io/badge/Physics-4B5563?style=flat-square"/>
+</p>
 
 Ring-run drone racer — **multiplayer racing, 3 maps, 30 levels**, moving hazards, timed landings, custom synth audio engine and gamepad support.
 
-**[🔗 drosky.ayuslabs.com](https://drosky.ayuslabs.com)**
+<p align="center">
+<a href="https://drosky.ayuslabs.com"><img src="https://img.shields.io/badge/Live_Demo-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+</p>
 
 </td>
 </tr>
+
 <tr><td colspan="2"><br/></td></tr>
+
 <tr>
 <td width="50%" valign="top">
 
-### 🧑‍🏫 Praxis
-> Interactive Learning Platform
+<a href="https://praxis.ayuslabs.com"><img src="https://anishpatankar.vercel.app/assets/PRAXIS.png" width="100%" alt="Praxis"/></a>
 
-`React` `TypeScript` `Monaco Editor` `Tailwind`
+<h3 align="center">🧑‍🏫 Praxis</h3>
+<p align="center"><em>Interactive Learning Platform</em></p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Monaco_Editor-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+</p>
 
 Learn web dev by doing. Write real HTML/CSS/JS in an embedded editor, get instant live preview, and AI-powered hints when you're stuck.
 
-**[🔗 praxis.ayuslabs.com](https://praxis.ayuslabs.com)**
+<p align="center">
+<a href="https://praxis.ayuslabs.com"><img src="https://img.shields.io/badge/Live_Demo-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+</p>
 
 </td>
 <td width="50%" valign="top">
 
-### 🛒 StickToon
-> Full-Stack E-Commerce Store
+<a href="https://sticktoon.shop/"><img src="https://anishpatankar.vercel.app/assets/StickToonFront.png" width="100%" alt="StickToon"/></a>
 
-`React` `TypeScript` `Node.js` `MongoDB`
+<h3 align="center">🛒 StickToon</h3>
+<p align="center"><em>Full-Stack E-Commerce Store</em></p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+</p>
 
 Complete storefront for a sticker brand — catalog, cart and checkout flow. Built from scratch as a client project, fully responsive.
 
-**[🔗 sticktoon.shop](https://sticktoon.shop/)**
+<p align="center">
+<a href="https://sticktoon.shop/"><img src="https://img.shields.io/badge/Live_Demo-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+</p>
 
 </td>
 </tr>
+
 <tr><td colspan="2"><br/></td></tr>
+
 <tr>
 <td width="50%" valign="top">
 
-### 🧪 AYUS Labs
-> Digital Product Studio
+<a href="https://ayuslabs.com"><img src="https://anishpatankar.vercel.app/assets/ayuslabs.png" width="100%" alt="AYUS Labs"/></a>
 
-`React` `TypeScript` `Vite` `Tailwind`
+<h3 align="center">🧪 AYUS Labs</h3>
+<p align="center"><em>Digital Product Studio</em></p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+</p>
 
 Official hub for AYUS Labs — the studio behind DocFlow, Praxis and DroSky. Tools across AI, productivity and the creator economy.
 
-**[🔗 ayuslabs.com](https://ayuslabs.com)**
+<p align="center">
+<a href="https://ayuslabs.com"><img src="https://img.shields.io/badge/Live_Demo-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+</p>
 
 </td>
 <td width="50%" valign="top">
 
-### 🍊 Orange Counter
-> Real-Time Object Detection
+<a href="https://github.com/Anish974/Orange-Counter"><img src="https://anishpatankar.vercel.app/assets/orangecount.png" width="100%" alt="Orange Counter"/></a>
 
-`Python` `Flask` `YOLOv8` `OpenCV`
+<h3 align="center">🍊 Orange Counter</h3>
+<p align="center"><em>Real-Time Object Detection</em></p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+</p>
 
 Fine-tuned YOLOv8 on a custom dataset. Drag-and-drop upload, live camera capture, dark mode, and a Flask-backed detection API.
 
-**[💻 View Code](https://github.com/Anish974/Orange-Counter)**
+<p align="center">
+<a href="https://github.com/Anish974/Orange-Counter"><img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
 </td>
 </tr>
@@ -149,25 +234,32 @@ Fine-tuned YOLOv8 on a custom dataset. Drag-and-drop upload, live camera capture
 
 ---
 
-## 🏢 Work — BERAM Pvt. Ltd.
+<div align="center">
 
-**Co-Founder** · *June 2025 – Present* · [beramdrones.com](https://beramdrones.com)
+## 🏢 Work Experience
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**Co-Founder** · BERAM Pvt. Ltd. · *June 2025 – Present*
 
-### 🛰️ UTMS
-> Unmanned Traffic Management System
+[![BERAM](https://img.shields.io/badge/beramdrones.com-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://beramdrones.com)
 
-`React` `Node.js` `Python` `Flask` `WebSocket` `MAVLink` `Pixhawk` `ArduPilot`
+<br/>
 
-UAV traffic and mission management in a single system — mission planning records, drone registry, user/admin control flows, logs and audits, operational file handling. Full stack launches as one coordinated workspace via predefined run tasks.
+<img src="https://anishpatankar.vercel.app/assets/UTMS_DASHBOARD.png" width="88%" alt="UTMS dashboard"/>
 
-</td>
+### 🛰️ UTMS — Unmanned Traffic Management System
 
-</tr>
-</table>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/WebSocket-4B5563?style=flat-square"/>
+<img src="https://img.shields.io/badge/MAVLink-1A73E8?style=flat-square"/>
+<img src="https://img.shields.io/badge/Pixhawk-E11D48?style=flat-square"/>
+<img src="https://img.shields.io/badge/ArduPilot-16A34A?style=flat-square"/>
+
+</div>
+
+UAV traffic and mission management in a single system — mission planning records, drone registry, user/admin control flows, logs and audits, operational file handling. The full stack launches as one coordinated workspace via predefined run tasks.
 
 ---
 
@@ -346,11 +438,10 @@ UAV traffic and mission management in a single system — mission planning recor
 
 | | Highlight | Year |
 |:---:|:---|:---:|
-| 🚀 | **Co-Founder** — BERAM Pvt. Ltd., drone technology company | 2025-26
+| 🚀 | **Co-Founder** — BERAM Pvt. Ltd., drone technology company | 2025–26 |
 | 🏅 | **Sports Secretary** — AIML Dept., RCOEM | 2025–26 |
 | 🏐 | **Captain, RCOEM Volleyball** — 3rd place, RTMNU Tournament | 2025–26 |
 | 🎨 | **Creative Lead** — AIML Dept., RCOEM · led a 15+ member team | 2024–25 |
-
 
 ---
 
