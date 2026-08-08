@@ -449,16 +449,16 @@ UAV traffic and mission management in a single system — mission planning recor
 
 <p align="center">
   <a href="https://github.com/Anish974">
-    <img src="https://github-readme-stats.vercel.app/api?username=Anish974&show_icons=true&theme=dark&title_color=6366f1&text_color=94a3b8&icon_color=6366f1&bg_color=0f172a&border_color=1e293b&hide_border=false" alt="Anish's GitHub Stats" height="165" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Anish974&show_icons=true&theme=dark&title_color=3b82f6&text_color=94a3b8&icon_color=3b82f6&bg_color=0f172a&border_color=1e293b&hide_border=false" alt="Anish's GitHub Stats" height="165" />
   </a>
   <a href="https://github.com/Anish974">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anish974&layout=compact&theme=dark&title_color=6366f1&text_color=94a3b8&icon_color=6366f1&bg_color=0f172a&border_color=1e293b&hide_border=false" alt="Top Languages" height="165" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anish974&layout=compact&theme=dark&title_color=3b82f6&text_color=94a3b8&icon_color=3b82f6&bg_color=0f172a&border_color=1e293b&hide_border=false" alt="Top Languages" height="165" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Anish974">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anish974&theme=dark&background=0F172A&border=1E293B&stroke=6366F1&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak" height="165" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anish974&theme=dark&background=0F172A&border=1E293B&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&currStreakNum=3B82F6" alt="GitHub Streak" height="165" />
   </a>
 </p>
 
@@ -472,7 +472,7 @@ UAV traffic and mission management in a single system — mission planning recor
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anish974/Anish974/output/github-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anish974/Anish974/output/github-snake.svg">
-    <img src="https://raw.githubusercontent.com/Anish974/Anish974/output/github-snake.svg" alt="contribution snake animation" width="100%"/>
+    <img src="https://raw.githubusercontent.com/Anish974/Anish974/output/github-snake-dark.svg" alt="contribution snake animation" width="100%" style="filter: drop-shadow(0 0 12px #ff0055) drop-shadow(0 0 25px #ff1744) hue-rotate(280deg);" />
   </picture>
 </div>
 
