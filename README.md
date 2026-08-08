@@ -472,7 +472,7 @@ UAV traffic and mission management in a single system — mission planning recor
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anish974/Anish974/output/github-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anish974/Anish974/output/github-snake.svg">
-    <img src="https://raw.githubusercontent.com/Anish974/Anish974/output/github-snake-dark.svg" alt="contribution snake animation" width="100%" style="filter: drop-shadow(0 0 12px #ff0055) drop-shadow(0 0 25px #ff1744) hue-rotate(280deg);" />
+    <img src="https://raw.githubusercontent.com/Anish974/Anish974/output/github-snake-dark.svg" alt="contribution snake animation" width="100%"/>
   </picture>
 </div>
 
