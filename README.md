@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://anishpatankar.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=44&duration=2600&pause=900&color=6366F1&center=true&vCenter=true&width=700&height=80&lines=%3E_+Anish+Patankar" alt="Anish Patankar" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=44&duration=2600&pause=900&color=6366F1&center=true&vCenter=true&width=700&height=80&lines=%3E_+Anish+Patankar;%3C+Full-Stack+Developer+%2F%3E;%7B+AI+%2F+ML+%C2%B7+Drone+Tech+%7D" alt="Anish Patankar" />
 </a>
 
 **Co-Founder @ BERAM · Full-Stack Developer · AI/ML**
@@ -440,6 +440,29 @@ UAV traffic and mission management in a single system — mission planning recor
 | 🏅 | **Sports Secretary** — AIML Dept., RCOEM | 2025–26 |
 | 🏐 | **Captain, RCOEM Volleyball** — 3rd place, RTMNU Tournament | 2025–26 |
 | 🎨 | **Creative Lead** — AIML Dept., RCOEM · led a 15+ member team | 2024–25 |
+
+---
+
+<div align="center">
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/Anish974">
+    <img src="https://github-readme-stats.vercel.app/api?username=Anish974&show_icons=true&theme=dark&title_color=6366f1&text_color=94a3b8&icon_color=6366f1&bg_color=0f172a&border_color=1e293b&hide_border=false" alt="Anish's GitHub Stats" height="165" />
+  </a>
+  <a href="https://github.com/Anish974">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anish974&layout=compact&theme=dark&title_color=6366f1&text_color=94a3b8&icon_color=6366f1&bg_color=0f172a&border_color=1e293b&hide_border=false" alt="Top Languages" height="165" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Anish974">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anish974&theme=dark&background=0F172A&border=1E293B&stroke=6366F1&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak" height="165" />
+  </a>
+</p>
+
+</div>
 
 ---
 
