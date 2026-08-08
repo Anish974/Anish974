@@ -16,8 +16,8 @@ jobs:
         with:
           github_user_name: Anish974
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg?color_snake=red&color_dots=#ebedf0,#ffcdd2,#e57373,#ef5350,#b71c1c
+            dist/github-snake-dark.svg?color_snake=red&color_dots=#161b22,#4c0612,#8c0d22,#d31238,#ff1744
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
