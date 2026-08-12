@@ -449,10 +449,10 @@ UAV traffic and mission management in a single system — mission planning recor
 
 <p align="center">
   <a href="https://github.com/Anish974">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Anish974&show_icons=true&theme=dark&title_color=3b82f6&text_color=94a3b8&icon_color=3b82f6&bg_color=0f172a&border_color=1e293b&hide_border=false" alt="Anish's GitHub Stats" height="165" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anish974&theme=github_dark" alt="Anish's GitHub Stats" height="165" />
   </a>
   <a href="https://github.com/Anish974">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Anish974&layout=compact&theme=dark&title_color=3b82f6&text_color=94a3b8&icon_color=3b82f6&bg_color=0f172a&border_color=1e293b&hide_border=false" alt="Top Languages" height="165" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anish974&theme=github_dark" alt="Top Languages" height="165" />
   </a>
 </p>
 
