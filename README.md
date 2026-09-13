@@ -81,7 +81,7 @@ RPG-style life tracker — XP, levels, quests, guilds, leaderboards, journals an
 <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
 </p>
 
-Official hub for AYUS Labs — the studio behind DocFlow, Praxis and DroSky. Tools across AI, productivity and the creator economy.
+Official hub for AYUS Labs — the studio behind Kyro Panel, Praxis and DroSky. Tools across AI, productivity and the creator economy.
 
 <p align="center">
 <a href="https://ayuslabs.com"><img src="https://img.shields.io/badge/Live_Demo-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
@@ -142,22 +142,22 @@ Complete storefront for a sticker brand — catalog, cart and checkout flow. Bui
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://docflow.ayuslabs.com/"><img src="https://anishpatankar.vercel.app/assets/DocFlow.png" width="100%" alt="DocFlow"/></a>
+<a href="https://kyro-panel.onrender.com"><img src="https://anishpatankar.vercel.app/assets/kyro-panel.png" width="100%" alt="Kyro Panel"/></a>
 
-<h3 align="center">📄 DocFlow</h3>
-<p align="center"><em>Browser-Native PDF Editor</em></p>
+<h3 align="center">🎙️ Kyro Panel</h3>
+<p align="center"><em>Coordinated AI Voice Interview Panel</em></p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Agora_RTC-099DFD?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Deepgram-13EF93?style=flat-square&logoColor=black"/>
+<img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
 </p>
 
-Edit, sign, redact and reorder PDFs entirely client-side via WASM. **Zero upload** — files never leave the browser, so privacy is architectural, not a promise.
+Three AI interviewers on one voice call, dynamically bidding for the floor in real-time. Single-pipeline voice orchestration, in-memory Claims Ledger, and un-averaged 360° scorecards.
 
 <p align="center">
-<a href="https://docflow.ayuslabs.com/"><img src="https://img.shields.io/badge/Live_Demo-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://kyro-panel.onrender.com"><img src="https://img.shields.io/badge/Live_Demo-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 </p>
 
 </td>
@@ -458,7 +458,7 @@ UAV traffic and mission management in a single system — mission planning recor
 
 <p align="center">
   <a href="https://github.com/Anish974">
-    <img src="https://streak-stats.demolab.com/?user=Anish974&theme=dark&background=0F172A&border=1E293B&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&currStreakNum=3B82F6" alt="GitHub Streak" height="165" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anish974&theme=github_dark" alt="GitHub Profile Summary" />
   </a>
 </p>
 
