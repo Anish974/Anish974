@@ -211,7 +211,7 @@ Zero-asset 3D drone game — all geometry, textures, and audio synthesized proce
 </td>
 <td width="50%" valign="top">
 
-<a href="https://praxis.ayuslabs.com"><img src="https://anishpatankar.vercel.app/assets/PRAXIS.png" width="100%" alt="Praxis"/></a>
+<a href="https://praxis.ayuslabs.com"><img src="https://anishpatankar.vercel.app/assets/Praxis_new1.png?v=2" width="100%" alt="Praxis"/></a>
 
 <h3 align="center">🧑‍🏫 Praxis</h3>
 <p align="center"><em>Interactive Learning Platform</em></p>
