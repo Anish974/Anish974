@@ -192,16 +192,17 @@ Fine-tuned YOLOv8 on a custom dataset. Drag-and-drop upload, live camera capture
 <a href="https://drosky.ayuslabs.com"><img src="https://anishpatankar.vercel.app/assets/Drosky3.png" width="100%" alt="DroSky"/></a>
 
 <h3 align="center">🕹️ DroSky</h3>
-<p align="center"><em>3D Arcade Drone Game</em></p>
+<p align="center"><em>3D Multiplayer Drone Flight & Combat Game</em></p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white"/>
-<img src="https://img.shields.io/badge/Multiplayer-4B5563?style=flat-square"/>
-<img src="https://img.shields.io/badge/Physics-4B5563?style=flat-square"/>
+<img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white"/>
+<img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Web_Audio-FF6C37?style=flat-square"/>
 </p>
 
-Ring-run drone racer — **multiplayer racing, 3 maps, 30 levels**, moving hazards, timed landings, custom synth audio engine and gamepad support.
+Zero-asset 3D drone game — all geometry, textures, and audio synthesized procedurally in code. Features **6 worlds across 90 levels** (obstacle courses & counter-drone dogfights), Mode-2 flight physics, crosswind gusts, 6-player real-time WebSocket racing, and gamepad support.
 
 <p align="center">
 <a href="https://drosky.ayuslabs.com"><img src="https://img.shields.io/badge/Live_Demo-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
