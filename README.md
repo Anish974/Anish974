@@ -142,7 +142,7 @@ Complete storefront for a sticker brand — catalog, cart and checkout flow. Bui
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://kyro-panel.onrender.com"><img src="https://anishpatankar.vercel.app/assets/kyro-panel.png" width="100%" alt="Kyro Panel"/></a>
+<a href="https://kyro-panel.onrender.com"><img src="https://anishpatankar.vercel.app/assets/kyro-panel.png?v=2" width="100%" alt="Kyro Panel"/></a>
 
 <h3 align="center">🎙️ Kyro Panel</h3>
 <p align="center"><em>Coordinated AI Voice Interview Panel</em></p>
@@ -189,7 +189,7 @@ Fine-tuned YOLOv8 on a custom dataset. Drag-and-drop upload, live camera capture
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://drosky.ayuslabs.com"><img src="https://anishpatankar.vercel.app/assets/DroSky.png" width="100%" alt="DroSky"/></a>
+<a href="https://drosky.ayuslabs.com"><img src="https://anishpatankar.vercel.app/assets/Drosky3.png" width="100%" alt="DroSky"/></a>
 
 <h3 align="center">🕹️ DroSky</h3>
 <p align="center"><em>3D Arcade Drone Game</em></p>
