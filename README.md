@@ -47,44 +47,44 @@ const anish = {
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://limitup.site"><img src="https://anishpatankar.vercel.app/assets/LIMITUP.png" width="100%" alt="LimitUP"/></a>
+<a href="https://drosky.ayuslabs.com"><img src="https://anishpatankar.vercel.app/assets/Drosky3.png" width="100%" alt="DroSky"/></a>
 
-<h3 align="center">🎮 LimitUP</h3>
-<p align="center"><em>Gamified Self-Improvement Platform</em></p>
+<h3 align="center">🕹️ DroSky</h3>
+<p align="center"><em>3D Multiplayer Drone Flight & Combat Game</em></p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white"/>
+<img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white"/>
+<img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Web_Audio-FF6C37?style=flat-square"/>
 </p>
 
-RPG-style life tracker — XP, levels, quests, guilds, leaderboards, journals and an AI assistant. Full auth, persistent progression, real-time leaderboards.
+Zero-asset 3D drone game — all geometry, textures, and audio synthesized procedurally in code. Features **6 worlds across 90 levels** (obstacle courses & counter-drone dogfights), Mode-2 flight physics, crosswind gusts, 6-player real-time WebSocket racing, and gamepad support.
 
 <p align="center">
-<a href="https://limitup.site"><img src="https://img.shields.io/badge/Live_Demo-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://drosky.ayuslabs.com"><img src="https://img.shields.io/badge/Live_Demo-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 </p>
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://ayuslabs.com"><img src="https://anishpatankar.vercel.app/assets/ayuslabs.png" width="100%" alt="AYUS Labs"/></a>
+<a href="https://kyro-panel.onrender.com"><img src="https://anishpatankar.vercel.app/assets/kyro-panel.png?v=2" width="100%" alt="Kyro Panel"/></a>
 
-<h3 align="center">🧪 AYUS Labs</h3>
-<p align="center"><em>Digital Product Studio</em></p>
+<h3 align="center">🎙️ Kyro Panel</h3>
+<p align="center"><em>Coordinated AI Voice Interview Panel</em></p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Agora_RTC-099DFD?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Deepgram-13EF93?style=flat-square&logoColor=black"/>
+<img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
 </p>
 
-Official hub for AYUS Labs — the studio behind Kyro Panel, Praxis and DroSky. Tools across AI, productivity and the creator economy.
+Three AI interviewers on one voice call, dynamically bidding for the floor in real-time. Single-pipeline voice orchestration, in-memory Claims Ledger, and un-averaged 360° scorecards.
 
 <p align="center">
-<a href="https://ayuslabs.com"><img src="https://img.shields.io/badge/Live_Demo-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://kyro-panel.onrender.com"><img src="https://img.shields.io/badge/Live_Demo-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 </p>
 
 </td>
@@ -111,101 +111,6 @@ High-performance FPV sim with real-time flight physics, multiple maps and gamepa
 
 <p align="center">
 <a href="https://simulator.beramdrones.com"><img src="https://img.shields.io/badge/Live_Demo-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://sticktoon.shop/"><img src="https://anishpatankar.vercel.app/assets/StickToonFront.png" width="100%" alt="StickToon"/></a>
-
-<h3 align="center">🛒 StickToon</h3>
-<p align="center"><em>Full-Stack E-Commerce Store</em></p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-</p>
-
-Complete storefront for a sticker brand — catalog, cart and checkout flow. Built from scratch as a client project, fully responsive.
-
-<p align="center">
-<a href="https://sticktoon.shop/"><img src="https://img.shields.io/badge/Live_Demo-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-</p>
-
-</td>
-</tr>
-
-<tr><td colspan="2"><br/></td></tr>
-
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://kyro-panel.onrender.com"><img src="https://anishpatankar.vercel.app/assets/kyro-panel.png?v=2" width="100%" alt="Kyro Panel"/></a>
-
-<h3 align="center">🎙️ Kyro Panel</h3>
-<p align="center"><em>Coordinated AI Voice Interview Panel</em></p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Agora_RTC-099DFD?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/Deepgram-13EF93?style=flat-square&logoColor=black"/>
-<img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-</p>
-
-Three AI interviewers on one voice call, dynamically bidding for the floor in real-time. Single-pipeline voice orchestration, in-memory Claims Ledger, and un-averaged 360° scorecards.
-
-<p align="center">
-<a href="https://kyro-panel.onrender.com"><img src="https://img.shields.io/badge/Live_Demo-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/Anish974/Orange-Counter"><img src="https://anishpatankar.vercel.app/assets/orangecount.png" width="100%" alt="Orange Counter"/></a>
-
-<h3 align="center">🍊 Orange Counter</h3>
-<p align="center"><em>Real-Time Object Detection</em></p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-</p>
-
-Fine-tuned YOLOv8 on a custom dataset. Drag-and-drop upload, live camera capture, dark mode, and a Flask-backed detection API.
-
-<p align="center">
-<a href="https://github.com/Anish974/Orange-Counter"><img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
-</td>
-</tr>
-
-<tr><td colspan="2"><br/></td></tr>
-
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://drosky.ayuslabs.com"><img src="https://anishpatankar.vercel.app/assets/Drosky3.png" width="100%" alt="DroSky"/></a>
-
-<h3 align="center">🕹️ DroSky</h3>
-<p align="center"><em>3D Multiplayer Drone Flight & Combat Game</em></p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white"/>
-<img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white"/>
-<img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
-<img src="https://img.shields.io/badge/Web_Audio-FF6C37?style=flat-square"/>
-</p>
-
-Zero-asset 3D drone game — all geometry, textures, and audio synthesized procedurally in code. Features **6 worlds across 90 levels** (obstacle courses & counter-drone dogfights), Mode-2 flight physics, crosswind gusts, 6-player real-time WebSocket racing, and gamepad support.
-
-<p align="center">
-<a href="https://drosky.ayuslabs.com"><img src="https://img.shields.io/badge/Live_Demo-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 </p>
 
 </td>
