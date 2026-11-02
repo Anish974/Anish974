@@ -11,10 +11,9 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://anishpatankar.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anish-patankar-47421b25a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anishpatankar974/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anishpatankar974@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anish974)
-[![AYUS Labs](https://img.shields.io/badge/AYUS_Labs-0F172A?style=for-the-badge&logo=rocket&logoColor=white)](https://ayuslabs.com)
 
 </div>
 
@@ -49,7 +48,7 @@ const anish = {
 
 <a href="https://drosky.ayuslabs.com"><img src="https://anishpatankar.vercel.app/assets/Drosky3.png" width="100%" alt="DroSky"/></a>
 
-<h3 align="center">🕹️ DroSky</h3>
+<h3 align="center"><img src="https://anishpatankar.vercel.app/assets/logo-drosky.png" width="24" height="24" alt="DroSky" /> DroSky</h3>
 <p align="center"><em>3D Multiplayer Drone Flight & Combat Game</em></p>
 
 <p align="center">
@@ -60,7 +59,7 @@ const anish = {
 <img src="https://img.shields.io/badge/Web_Audio-FF6C37?style=flat-square"/>
 </p>
 
-Zero-asset 3D drone game — all geometry, textures, and audio synthesized procedurally in code. Features **6 worlds across 90 levels** (obstacle courses & counter-drone dogfights), Mode-2 flight physics, crosswind gusts, 6-player real-time WebSocket racing, and gamepad support.
+Zero-asset 3D drone game — all geometry, textures, and audio synthesized procedurally in code. Features **7 worlds across 100 levels** (obstacle courses & counter-drone dogfights), Mode-2 flight physics, crosswind gusts, 6-player real-time WebSocket racing, and gamepad support.
 
 <p align="center">
 <a href="https://drosky.ayuslabs.com"><img src="https://img.shields.io/badge/Live_Demo-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
@@ -71,7 +70,7 @@ Zero-asset 3D drone game — all geometry, textures, and audio synthesized proce
 
 <a href="https://kyro-panel.onrender.com"><img src="https://anishpatankar.vercel.app/assets/kyro-panel.png?v=2" width="100%" alt="Kyro Panel"/></a>
 
-<h3 align="center">🎙️ Kyro Panel</h3>
+<h3 align="center"><img src="https://anishpatankar.vercel.app/assets/logo-kyro.png" width="24" height="24" alt="Kyro Panel" /> Kyro Panel</h3>
 <p align="center"><em>Coordinated AI Voice Interview Panel</em></p>
 
 <p align="center">
@@ -97,7 +96,7 @@ Three AI interviewers on one voice call, dynamically bidding for the floor in re
 
 <a href="https://simulator.beramdrones.com"><img src="https://anishpatankar.vercel.app/assets/dronesimulator.png" width="100%" alt="BERAM Drone Simulator"/></a>
 
-<h3 align="center">🛸 BERAM Drone Simulator</h3>
+<h3 align="center"><img src="https://anishpatankar.vercel.app/assets/logo-beram.png" width="24" height="24" alt="BERAM" /> BERAM Drone Simulator</h3>
 <p align="center"><em>WebGL FPV Flight Simulator</em></p>
 
 <p align="center">
@@ -118,7 +117,7 @@ High-performance FPV sim with real-time flight physics, multiple maps and gamepa
 
 <a href="https://praxis.ayuslabs.com"><img src="https://anishpatankar.vercel.app/assets/Praxis_new1.png?v=2" width="100%" alt="Praxis"/></a>
 
-<h3 align="center">🧑‍🏫 Praxis</h3>
+<h3 align="center"><img src="https://anishpatankar.vercel.app/assets/logo-praxis.png" width="24" height="24" alt="Praxis" /> Praxis</h3>
 <p align="center"><em>Interactive Learning Platform</em></p>
 
 <p align="center">
@@ -150,7 +149,7 @@ Learn web dev by doing. Write real HTML/CSS/JS in an embedded editor, get instan
 
 <br/>
 
-### 🛰️ UTMS — Unmanned Traffic Management System
+### <img src="https://anishpatankar.vercel.app/assets/logo-beram.png" width="22" height="22" alt="BERAM" /> UTMS — Unmanned Traffic Management System
 
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
