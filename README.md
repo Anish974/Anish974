@@ -48,7 +48,7 @@ const anish = {
 
 <a href="https://drosky.ayuslabs.com"><img src="https://anishpatankar.vercel.app/assets/Drosky3.png" width="100%" alt="DroSky"/></a>
 
-<h3 align="center"><img src="https://raw.githubusercontent.com/Anish974/anish-portfolio/main/public/assets/logo-drosky.png" width="24" height="24" alt="" /> DroSky</h3>
+<h3 align="center"><img src="https://anishpatankar.vercel.app/assets/logo-drosky.png?v=1" width="24" height="24" alt="" /> DroSky</h3>
 <p align="center"><em>3D Multiplayer Drone Flight & Combat Game</em></p>
 
 <p align="center">
@@ -70,7 +70,7 @@ Zero-asset 3D drone game — all geometry, textures, and audio synthesized proce
 
 <a href="https://kyro-panel.onrender.com"><img src="https://anishpatankar.vercel.app/assets/kyro-panel.png?v=2" width="100%" alt="Kyro Panel"/></a>
 
-<h3 align="center"><img src="https://raw.githubusercontent.com/Anish974/anish-portfolio/main/public/assets/logo-kyro.png" width="24" height="24" alt="" /> Kyro Panel</h3>
+<h3 align="center"><img src="https://anishpatankar.vercel.app/assets/logo-kyro.png?v=1" width="24" height="24" alt="" /> Kyro Panel</h3>
 <p align="center"><em>Coordinated AI Voice Interview Panel</em></p>
 
 <p align="center">
@@ -96,7 +96,7 @@ Three AI interviewers on one voice call, dynamically bidding for the floor in re
 
 <a href="https://simulator.beramdrones.com"><img src="https://anishpatankar.vercel.app/assets/dronesimulator.png" width="100%" alt="BERAM Drone Simulator"/></a>
 
-<h3 align="center"><img src="https://raw.githubusercontent.com/Anish974/anish-portfolio/main/public/assets/logo-beram.png" width="24" height="24" alt="" /> BERAM Drone Simulator</h3>
+<h3 align="center"><img src="https://anishpatankar.vercel.app/assets/logo-beram.png?v=1" width="24" height="24" alt="" /> BERAM Drone Simulator</h3>
 <p align="center"><em>WebGL FPV Flight Simulator</em></p>
 
 <p align="center">
@@ -117,7 +117,7 @@ High-performance FPV sim with real-time flight physics, multiple maps and gamepa
 
 <a href="https://praxis.ayuslabs.com"><img src="https://anishpatankar.vercel.app/assets/Praxis_new1.png?v=2" width="100%" alt="Praxis"/></a>
 
-<h3 align="center"><img src="https://raw.githubusercontent.com/Anish974/anish-portfolio/main/public/assets/logo-praxis.png" width="24" height="24" alt="" /> Praxis</h3>
+<h3 align="center"><img src="https://anishpatankar.vercel.app/assets/logo-praxis.png?v=1" width="24" height="24" alt="" /> Praxis</h3>
 <p align="center"><em>Interactive Learning Platform</em></p>
 
 <p align="center">
@@ -149,7 +149,7 @@ Learn web dev by doing. Write real HTML/CSS/JS in an embedded editor, get instan
 
 <br/>
 
-### <img src="https://raw.githubusercontent.com/Anish974/anish-portfolio/main/public/assets/logo-beram.png" width="22" height="22" alt="" /> UTMS — Unmanned Traffic Management System
+### <img src="https://anishpatankar.vercel.app/assets/logo-beram.png?v=1" width="22" height="22" alt="" /> UTMS — Unmanned Traffic Management System
 
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
